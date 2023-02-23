@@ -1,4 +1,4 @@
 {
-    "testRepo": "solution-repo-name",
+    "testRepo": "button-counter-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
