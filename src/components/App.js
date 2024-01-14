@@ -4,7 +4,7 @@ import './../styles/App.css'
 
 const App = () => {
 
-  let [count,setCount] = useState(0)
+  let [count,setCount] = useState(0);
   return (
     <div>
         <p>Button clicked {count} times</p>
